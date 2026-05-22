@@ -25,5 +25,5 @@ Project Kavach is an end-to-end, real-time audio analysis pipeline designed to d
 1. **Clone the repository:**
    
 ```bash
-   git clone [https://github.com/your-username/kavach.git](https://github.com/your-username/kavach.git)
+   git clone [https://github.com/kshitij7a/kavach.git](https://github.com/kshitij7a/kavach.git)
    cd kavach
